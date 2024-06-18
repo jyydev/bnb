@@ -1,3 +1,3 @@
 export default function Page() {
-  return <div>Test page</div>;
+  return <div>Test page {process.env.tt}</div>;
 }
