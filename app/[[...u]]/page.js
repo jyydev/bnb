@@ -9,12 +9,14 @@ async function App({ params }) {
   global.mbx1m = 0;
   let u = params.u?.[0];
   let accs = getAccs(u);
-  let [assetR, pmR, umR, cmR, priceR] = await Promise.all([
-    get("/papi/v1/balance", {}, accs),
+  // let [assetR, pmR, umR, cmR, priceR] = await Promise.all([
+  let [pmR] = await Promise.all([
+    // get("/papi/v1/balance", {}, accs),
     get("/papi/v1/account", {}, accs),
-    get("/papi/v1/um/positionRisk", {}, accs),
-    get("/papi/v1/cm/positionRisk", {}, accs),
-    get("/api/v3/ticker/price", {}),
+    // get("/papi/v1/um/positionRisk", {}, accs),
+    // get("/papi/v1/cm/positionRisk", {}, accs),
+    // get("/api/v3/ticker/price", {}),
+
     // get("/sapi/v1/portfolio/collateralRate", setCollateralRatio);
     // get("/fapi/v1/fundingRate", { symbol: "BTCUSDT" }, setFundingRate);
   ]);
@@ -26,7 +28,7 @@ async function App({ params }) {
         <span>mbx: {global.mbx1m}/6000</span>
       </div>
       <Pm pmR={pmR} />
-      <Pos {...{ umR, cmR, assetR, priceR }} />
+      {/* <Pos {...{ umR, cmR, assetR, priceR }} /> */}
     </>
   );
 }
