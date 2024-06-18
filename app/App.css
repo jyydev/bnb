@@ -1,0 +1,43 @@
+body {
+  background-color: black;
+  color: white;
+  padding: 0px 4px 4px 4px;
+}
+table {
+  border: 1px solid white;
+  border-collapse: collapse;
+  margin-bottom: 10px;
+}
+th,
+td {
+  border: 0.5px solid white;
+  padding: 4px;
+}
+td {
+  font-size: 14px;
+}
+table caption {
+  text-align: left;
+}
+.flex {
+  display: flex;
+  padding: 6px;
+}
+.flex .item {
+  padding: 6px;
+}
+.flex .item .title {
+  font-weight: bold;
+}
+.red {
+  color: hsl(0, 100%, 75%);
+}
+.green {
+  color: hsl(120, 100%, 75%);
+}
+.yellow {
+  color: hsl(60, 100%, 75%);
+}
+.inline {
+  display: inline-block;
+}

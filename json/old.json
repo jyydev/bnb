@@ -1,0 +1,1518 @@
+[
+  {
+    "asset": "USDC",
+    "collateralRate": "0.9999"
+  },
+  {
+    "asset": "USDT",
+    "collateralRate": "0.9999"
+  },
+  {
+    "asset": "BTC",
+    "collateralRate": "0.9500"
+  },
+  {
+    "asset": "ETH",
+    "collateralRate": "0.9500"
+  },
+  {
+    "asset": "BNB",
+    "collateralRate": "0.9500"
+  },
+  {
+    "asset": "DOGE",
+    "collateralRate": "0.9500"
+  },
+  {
+    "asset": "LINK",
+    "collateralRate": "0.9000"
+  },
+  {
+    "asset": "ADA",
+    "collateralRate": "0.9000"
+  },
+  {
+    "asset": "LTC",
+    "collateralRate": "0.9000"
+  },
+  {
+    "asset": "DOT",
+    "collateralRate": "0.9000"
+  },
+  {
+    "asset": "AAVE",
+    "collateralRate": "0.9000"
+  },
+  {
+    "asset": "SOL",
+    "collateralRate": "0.9000"
+  },
+  {
+    "asset": "FTT",
+    "collateralRate": "0.4000"
+  },
+  {
+    "asset": "PAXG",
+    "collateralRate": "0.9000"
+  },
+  {
+    "asset": "XRP",
+    "collateralRate": "0.8500"
+  },
+  {
+    "asset": "XLM",
+    "collateralRate": "0.8500"
+  },
+  {
+    "asset": "ATOM",
+    "collateralRate": "0.8500"
+  },
+  {
+    "asset": "MATIC",
+    "collateralRate": "0.8500"
+  },
+  {
+    "asset": "XTZ",
+    "collateralRate": "0.8500"
+  },
+  {
+    "asset": "BCH",
+    "collateralRate": "0.8500"
+  },
+  {
+    "asset": "ALGO",
+    "collateralRate": "0.8500"
+  },
+  {
+    "asset": "CRV",
+    "collateralRate": "0.8500"
+  },
+  {
+    "asset": "SUSHI",
+    "collateralRate": "0.8500"
+  },
+  {
+    "asset": "UNI",
+    "collateralRate": "0.8500"
+  },
+  {
+    "asset": "MANA",
+    "collateralRate": "0.8500"
+  },
+  {
+    "asset": "NEAR",
+    "collateralRate": "0.4500"
+  },
+  {
+    "asset": "SHIB",
+    "collateralRate": "0.8500"
+  },
+  {
+    "asset": "EOS",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "ONT",
+    "collateralRate": "0.2000"
+  },
+  {
+    "asset": "ETC",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "NEO",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "DASH",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "ZEC",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "BAT",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "VET",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "QTUM",
+    "collateralRate": "0.2000"
+  },
+  {
+    "asset": "ONE",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "ANKR",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "IOTX",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "HBAR",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "FTM",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "THETA",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "COMP",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "OMG",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "WAVES",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "SNX",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "AVAX",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "SAND",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "CHZ",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "COTI",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "FET",
+    "collateralRate": "0.4500"
+  },
+  {
+    "asset": "GRT",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "LRC",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "KSM",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "STX",
+    "collateralRate": "0.5000"
+  },
+  {
+    "asset": "ENJ",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "RUNE",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "EGLD",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "CAKE",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "DENT",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "FLOW",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "AR",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "DYDX",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "AXS",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "ENS",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "ALICE",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "ICP",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "C98",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "GALA",
+    "collateralRate": "0.6000"
+  },
+  {
+    "asset": "RAY",
+    "collateralRate": "0.3000"
+  },
+  {
+    "asset": "KLAY",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "XEC",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "LPT",
+    "collateralRate": "0.2000"
+  },
+  {
+    "asset": "ICX",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "CELO",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "QNT",
+    "collateralRate": "0.8000"
+  },
+  {
+    "asset": "XMR",
+    "collateralRate": "0.7000"
+  },
+  {
+    "asset": "IOST",
+    "collateralRate": "0.2000"
+  },
+  {
+    "asset": "IOTA",
+    "collateralRate": "0.7000"
+  },
+  {
+    "asset": "RVN",
+    "collateralRate": "0.7000"
+  },
+  {
+    "asset": "ZIL",
+    "collateralRate": "0.7000"
+  },
+  {
+    "asset": "SXP",
+    "collateralRate": "0.7000"
+  },
+  {
+    "asset": "KNC",
+    "collateralRate": "0.7000"
+  },
+  {
+    "asset": "KAVA",
+    "collateralRate": "0.7000"
+  },
+  {
+    "asset": "FIL",
+    "collateralRate": "0.7500"
+  },
+  {
+    "asset": "CHR",
+    "collateralRate": "0.7000"
+  },
+  {
+    "asset": "ROSE",
+    "collateralRate": "0.7000"
+  },
+  {
+    "asset": "REEF",
+    "collateralRate": "0.7000"
+  },
+  {
+    "asset": "SKL",
+    "collateralRate": "0.7000"
+  },
+  {
+    "asset": "1INCH",
+    "collateralRate": "0.7000"
+  },
+  {
+    "asset": "AUDIO",
+    "collateralRate": "0.7000"
+  },
+  {
+    "asset": "HIVE",
+    "collateralRate": "0.2000"
+  },
+  {
+    "asset": "MBOX",
+    "collateralRate": "0.2000"
+  },
+  {
+    "asset": "WAXP",
+    "collateralRate": "0.2000"
+  },
+  {
+    "asset": "MINA",
+    "collateralRate": "0.3000"
+  },
+  {
+    "asset": "RNDR",
+    "collateralRate": "0.6000"
+  },
+  {
+    "asset": "DUSK",
+    "collateralRate": "0.7000"
+  },
+  {
+    "asset": "HOT",
+    "collateralRate": "0.7000"
+  },
+  {
+    "asset": "YGG",
+    "collateralRate": "0.2000"
+  },
+  {
+    "asset": "FLUX",
+    "collateralRate": "0.7000"
+  },
+  {
+    "asset": "PEOPLE",
+    "collateralRate": "0.7000"
+  },
+  {
+    "asset": "PYR",
+    "collateralRate": "0.7000"
+  },
+  {
+    "asset": "TWT",
+    "collateralRate": "0.7000"
+  },
+  {
+    "asset": "NEXO",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "WOO",
+    "collateralRate": "0.7000"
+  },
+  {
+    "asset": "GAL",
+    "collateralRate": "0.7000"
+  },
+  {
+    "asset": "STPT",
+    "collateralRate": "0.2000"
+  },
+  {
+    "asset": "MASK",
+    "collateralRate": "0.6000"
+  },
+  {
+    "asset": "TLM",
+    "collateralRate": "0.6000"
+  },
+  {
+    "asset": "BETA",
+    "collateralRate": "0.6000"
+  },
+  {
+    "asset": "WAN",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "RAD",
+    "collateralRate": "0.2000"
+  },
+  {
+    "asset": "CVC",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "GMT",
+    "collateralRate": "0.6000"
+  },
+  {
+    "asset": "APE",
+    "collateralRate": "0.6000"
+  },
+  {
+    "asset": "ASTR",
+    "collateralRate": "0.3000"
+  },
+  {
+    "asset": "TRX",
+    "collateralRate": "0.5000"
+  },
+  {
+    "asset": "LINA",
+    "collateralRate": "0.5000"
+  },
+  {
+    "asset": "GTC",
+    "collateralRate": "0.5000"
+  },
+  {
+    "asset": "BAKE",
+    "collateralRate": "0.5000"
+  },
+  {
+    "asset": "SFP",
+    "collateralRate": "0.5000"
+  },
+  {
+    "asset": "BLZ",
+    "collateralRate": "0.5000"
+  },
+  {
+    "asset": "MTL",
+    "collateralRate": "0.2000"
+  },
+  {
+    "asset": "SUN",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "BSW",
+    "collateralRate": "0.5000"
+  },
+  {
+    "asset": "KDA",
+    "collateralRate": "0.5000"
+  },
+  {
+    "asset": "TFUEL",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "MDT",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "SLP",
+    "collateralRate": "0.3000"
+  },
+  {
+    "asset": "POLS",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "POND",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "UNFI",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "CHESS",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "DAR",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "IDEX",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "CLV",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "BNX",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "JASMY",
+    "collateralRate": "0.3500"
+  },
+  {
+    "asset": "QUICK",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "AGLD",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "BICO",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "CTXC",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "VOXEL",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "KEY",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "RARE",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "FRONT",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "QI",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "MBL",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "API3",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "CTK",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "OP",
+    "collateralRate": "0.7500"
+  },
+  {
+    "asset": "CELR",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "SC",
+    "collateralRate": "0.3500"
+  },
+  {
+    "asset": "REN",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "ZRX",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "BAND",
+    "collateralRate": "0.1500"
+  },
+  {
+    "asset": "RLC",
+    "collateralRate": "0.3000"
+  },
+  {
+    "asset": "MKR",
+    "collateralRate": "0.3000"
+  },
+  {
+    "asset": "YFI",
+    "collateralRate": "0.1500"
+  },
+  {
+    "asset": "BAL",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "STORJ",
+    "collateralRate": "0.3000"
+  },
+  {
+    "asset": "TRB",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "RSR",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "OCEAN",
+    "collateralRate": "0.5000"
+  },
+  {
+    "asset": "DGB",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "ARPA",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "STMX",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "ALPHA",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "INJ",
+    "collateralRate": "0.6000"
+  },
+  {
+    "asset": "CTSI",
+    "collateralRate": "0.1500"
+  },
+  {
+    "asset": "OGN",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "DODO",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "LIT",
+    "collateralRate": "0.2000"
+  },
+  {
+    "asset": "NKN",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "XEM",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "BOND",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "ATA",
+    "collateralRate": "0.2000"
+  },
+  {
+    "asset": "LUNA",
+    "collateralRate": "0.3500"
+  },
+  {
+    "asset": "ZEN",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "BEL",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "IMX",
+    "collateralRate": "0.3500"
+  },
+  {
+    "asset": "REI",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "CVX",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "BURGER",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "VIDT",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "LEVER",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "KMD",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "FIDA",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "LDO",
+    "collateralRate": "0.3500"
+  },
+  {
+    "asset": "AUCTION",
+    "collateralRate": "0.3000"
+  },
+  {
+    "asset": "FIO",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "SPELL",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "STG",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "WING",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "AVA",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "LUNC",
+    "collateralRate": "0.5000"
+  },
+  {
+    "asset": "DEXE",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "LOKA",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "AMB",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "LOOM",
+    "collateralRate": "0.2000"
+  },
+  {
+    "asset": "PHB",
+    "collateralRate": "0.3000"
+  },
+  {
+    "asset": "SANTOS",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "VIB",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "GLM",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "HARD",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "USTC",
+    "collateralRate": "0.3500"
+  },
+  {
+    "asset": "EPX",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "HIGH",
+    "collateralRate": "0.3000"
+  },
+  {
+    "asset": "ERN",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "DEGO",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "GMX",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "LAZIO",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "PORTO",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "ACH",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "NMR",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "TROY",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "STRAX",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "FORTH",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "KP3R",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "MDX",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "JST",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "APT",
+    "collateralRate": "0.4500"
+  },
+  {
+    "asset": "POLYX",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "REQ",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "CVP",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "DATA",
+    "collateralRate": "0.2000"
+  },
+  {
+    "asset": "PHA",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "OSMO",
+    "collateralRate": "0.3000"
+  },
+  {
+    "asset": "GLMR",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "GAS",
+    "collateralRate": "0.3000"
+  },
+  {
+    "asset": "NULS",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "PUNDIX",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "AGIX",
+    "collateralRate": "0.5000"
+  },
+  {
+    "asset": "FXS",
+    "collateralRate": "0.2000"
+  },
+  {
+    "asset": "HOOK",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "MAGIC",
+    "collateralRate": "0.3000"
+  },
+  {
+    "asset": "T",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "HFT",
+    "collateralRate": "0.5000"
+  },
+  {
+    "asset": "CFX",
+    "collateralRate": "0.4000"
+  },
+  {
+    "asset": "SSV",
+    "collateralRate": "0.3500"
+  },
+  {
+    "asset": "CKB",
+    "collateralRate": "0.3500"
+  },
+  {
+    "asset": "LQTY",
+    "collateralRate": "0.3000"
+  },
+  {
+    "asset": "PERP",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "TRU",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "DF",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "ALCX",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "TUSD",
+    "collateralRate": "0.9990"
+  },
+  {
+    "asset": "USDP",
+    "collateralRate": "0.9990"
+  },
+  {
+    "asset": "GNS",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "JOE",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "RIF",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "SYN",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "ARB",
+    "collateralRate": "0.7500"
+  },
+  {
+    "asset": "ID",
+    "collateralRate": "0.3000"
+  },
+  {
+    "asset": "OAX",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "RDNT",
+    "collateralRate": "0.4000"
+  },
+  {
+    "asset": "XVS",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "BLUR",
+    "collateralRate": "0.3500"
+  },
+  {
+    "asset": "EDU",
+    "collateralRate": "0.2000"
+  },
+  {
+    "asset": "SUI",
+    "collateralRate": "0.4500"
+  },
+  {
+    "asset": "FLOKI",
+    "collateralRate": "0.3500"
+  },
+  {
+    "asset": "PEPE",
+    "collateralRate": "0.4500"
+  },
+  {
+    "asset": "UMA",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "COMBO",
+    "collateralRate": "0.2000"
+  },
+  {
+    "asset": "MAV",
+    "collateralRate": "0.2000"
+  },
+  {
+    "asset": "XVG",
+    "collateralRate": "0.2000"
+  },
+  {
+    "asset": "PENDLE",
+    "collateralRate": "0.3500"
+  },
+  {
+    "asset": "ARKM",
+    "collateralRate": "0.2500"
+  },
+  {
+    "asset": "WLD",
+    "collateralRate": "0.4500"
+  },
+  {
+    "asset": "FDUSD",
+    "collateralRate": "0.9900"
+  },
+  {
+    "asset": "BNT",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "OXT",
+    "collateralRate": "0.2000"
+  },
+  {
+    "asset": "RPL",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "SEI",
+    "collateralRate": "0.4500"
+  },
+  {
+    "asset": "CYBER",
+    "collateralRate": "0.2000"
+  },
+  {
+    "asset": "HIFI",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "ARK",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "VTHO",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "WBETH",
+    "collateralRate": "0.8500"
+  },
+  {
+    "asset": "DOCK",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "NTRN",
+    "collateralRate": "0.2000"
+  },
+  {
+    "asset": "ARDR",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "OOKI",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "ACA",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "GHST",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "AERGO",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "POWR",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "TIA",
+    "collateralRate": "0.5000"
+  },
+  {
+    "asset": "ONG",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "SNT",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "STEEM",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "MEME",
+    "collateralRate": "0.5000"
+  },
+  {
+    "asset": "UFT",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "ILV",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "ORN",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "ORDI",
+    "collateralRate": "0.6000"
+  },
+  {
+    "asset": "SCRT",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "MOVR",
+    "collateralRate": "0.3000"
+  },
+  {
+    "asset": "AKRO",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "BADGER",
+    "collateralRate": "0.2000"
+  },
+  {
+    "asset": "FIS",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "BEAMX",
+    "collateralRate": "0.3000"
+  },
+  {
+    "asset": "OG",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "AMP",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "FARM",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "ELF",
+    "collateralRate": "0.2000"
+  },
+  {
+    "asset": "PYTH",
+    "collateralRate": "0.3500"
+  },
+  {
+    "asset": "LSK",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "VIC",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "COS",
+    "collateralRate": "0.3000"
+  },
+  {
+    "asset": "SYS",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "GFT",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "VANRY",
+    "collateralRate": "0.3000"
+  },
+  {
+    "asset": "PIVX",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "AST",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "JTO",
+    "collateralRate": "0.3000"
+  },
+  {
+    "asset": "GNO",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "BTTC",
+    "collateralRate": "0.3000"
+  },
+  {
+    "asset": "VITE",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "1000SATS",
+    "collateralRate": "0.5000"
+  },
+  {
+    "asset": "FUN",
+    "collateralRate": "0.1500"
+  },
+  {
+    "asset": "BONK",
+    "collateralRate": "0.5000"
+  },
+  {
+    "asset": "ALPACA",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "ACE",
+    "collateralRate": "0.5000"
+  },
+  {
+    "asset": "AEUR",
+    "collateralRate": "0.2000"
+  },
+  {
+    "asset": "DIA",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "OM",
+    "collateralRate": "0.3500"
+  },
+  {
+    "asset": "NFP",
+    "collateralRate": "0.4000"
+  },
+  {
+    "asset": "AI",
+    "collateralRate": "0.5000"
+  },
+  {
+    "asset": "XAI",
+    "collateralRate": "0.2500"
+  },
+  {
+    "asset": "PROS",
+    "collateralRate": "0.1500"
+  },
+  {
+    "asset": "MANTA",
+    "collateralRate": "0.5000"
+  },
+  {
+    "asset": "WIF",
+    "collateralRate": "0.4500"
+  },
+  {
+    "asset": "ALT",
+    "collateralRate": "0.5000"
+  },
+  {
+    "asset": "PROM",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "TKO",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "WRX",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "CREAM",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "IRIS",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "JUP",
+    "collateralRate": "0.5000"
+  },
+  {
+    "asset": "RONIN",
+    "collateralRate": "0.3500"
+  },
+  {
+    "asset": "DYM",
+    "collateralRate": "0.3500"
+  },
+  {
+    "asset": "PIXEL",
+    "collateralRate": "0.4500"
+  },
+  {
+    "asset": "STRK",
+    "collateralRate": "0.4500"
+  },
+  {
+    "asset": "IQ",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "ADX",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "PORTAL",
+    "collateralRate": "0.5000"
+  },
+  {
+    "asset": "PDA",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "AXL",
+    "collateralRate": "0.3000"
+  },
+  {
+    "asset": "XNO",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "FOR",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "FIRO",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "CITY",
+    "collateralRate": "0.1500"
+  },
+  {
+    "asset": "BAR",
+    "collateralRate": "0.1500"
+  },
+  {
+    "asset": "DCR",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "ALPINE",
+    "collateralRate": "0.1500"
+  },
+  {
+    "asset": "PSG",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "DAI",
+    "collateralRate": "0.7500"
+  },
+  {
+    "asset": "QKC",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "METIS",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "AEVO",
+    "collateralRate": "0.2500"
+  },
+  {
+    "asset": "BOME",
+    "collateralRate": "0.4500"
+  },
+  {
+    "asset": "ETHFI",
+    "collateralRate": "0.4500"
+  },
+  {
+    "asset": "WBTC",
+    "collateralRate": "0.5000"
+  },
+  {
+    "asset": "LTO",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "MLN",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "ENA",
+    "collateralRate": "0.4500"
+  },
+  {
+    "asset": "W",
+    "collateralRate": "0.4500"
+  },
+  {
+    "asset": "ASR",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "ATM",
+    "collateralRate": "0.1500"
+  },
+  {
+    "asset": "JUV",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "TNSR",
+    "collateralRate": "0.3000"
+  },
+  {
+    "asset": "SAGA",
+    "collateralRate": "0.3500"
+  },
+  {
+    "asset": "TAO",
+    "collateralRate": "0.3000"
+  },
+  {
+    "asset": "OMNI",
+    "collateralRate": "0.3500"
+  },
+  {
+    "asset": "UTK",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "REZ",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "BB",
+    "collateralRate": "0.1000"
+  },
+  {
+    "asset": "NOT",
+    "collateralRate": "0.1000"
+  }
+]
